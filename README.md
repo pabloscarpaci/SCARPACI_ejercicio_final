@@ -56,15 +56,6 @@ PARTES DE LA EJERCITACIÓN:
   Realizar un análisis básico, nube de palabras, trends, frecuencias, contextos, distancias. Guardar las capturas de pantalla, dashbord, cirrus, termsberry, frecuencias, contextos, subirlas a una carpeta img_voyant dentro del repositorio: apellido_ejercicio_final
   
 
-CUESTIONES A ANALIZAR:
- 
-¿Pueden determinar con las visualizaciones realizadas que temas predominan?
-
-¿Pueden evidenciar diferencias entre los textos del corpus?
-
-¿Qué palabras son las más frecuentes? ¿cuáles luego de eliminar palabras vacías?
-
-
 ¿Qué hipótesis inicial podrían formular?
 
 ¿Qué pueden decir respecto a este sencillo análisis comparativo entre R y Voyant Tools?
