@@ -54,9 +54,4 @@ PARTES DE LA EJERCITACIÓN:
   Cargar en Voyat Tools, los mismos archivos .txt que guardaron en CORPUS 
   
   Realizar un análisis básico, nube de palabras, trends, frecuencias, contextos, distancias. Guardar las capturas de pantalla, dashbord, cirrus, termsberry, frecuencias, contextos, subirlas a una carpeta img_voyant dentro del repositorio: apellido_ejercicio_final
-  
-
-¿Qué hipótesis inicial podrían formular?
-
-¿Qué pueden decir respecto a este sencillo análisis comparativo entre R y Voyant Tools?
 
